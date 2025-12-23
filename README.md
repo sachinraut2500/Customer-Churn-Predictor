@@ -7,7 +7,7 @@ A practical pipeline to predict customer churn and produce simple SHAP-based exp
 - `src/train.py` — train an XGBoost classifier and save model + metadata
 - `src/explain.py` — produce SHAP explanations for individual customers
 - `requirements.txt` — library list
-
+====
 ## Data expectations
 Input CSV should include a column `churn` with values 0 or 1. Additional columns can be numeric or categorical (e.g., tenure, monthly_charges, contract_type).
 
