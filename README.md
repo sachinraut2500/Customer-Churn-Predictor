@@ -15,6 +15,7 @@ Optional columns:
 - `customer_id` (kept if present)
 
 ## Quickstart
+---
 
 1. Create environment and install:
 ```bash
