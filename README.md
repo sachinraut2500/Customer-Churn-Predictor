@@ -1,7 +1,7 @@
 # Customer Churn Predictor
 
 A practical pipeline to predict customer churn and produce simple SHAP-based explanations.
-----
+--------
 ## What’s included
 - `src/preprocess.py` — clean raw customer CSV and encode features
 - `src/train.py` — train an XGBoost classifier and save model + metadata
